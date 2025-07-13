@@ -1,0 +1,6 @@
+pandas==2.3.1 > requirements.txt
+numpy==2.3.1 >> requirements.txt
+matplotlib==3.10.3 >> requirements.txt
+seaborn==0.13.2 >> requirements.txt
+scikit-learn==1.7.0 >> requirements.txt
+jupyter==1.1.1 >> requirements.txt
