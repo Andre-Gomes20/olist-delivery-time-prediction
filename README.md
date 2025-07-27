@@ -25,11 +25,11 @@ O objetivo é criar um modelo de regressão capaz de prever, com boa precisão, 
 
 Foram testados três modelos principais:
 
-| Modelo                 | MAE ↓ | RMSE ↓ | R² ↑  |
+| Modelo                 | MAE ↓ | MSE ↓ | R² ↑  |
 |------------------------|--------|--------|-------|
 | Linear Regression      | 4.63   | 35.17  | 0.15  |
 | Gradient Boosting      | 4.17   | 25.87  | 0.38  |
-| Random Forest Regressor| ✅ 3.12| ✅ 17.05| ✅ 0.59 |
+| Random Forest Regressor| ✅ 3.03| ✅ 17.11| ✅ 0.59 |
 
 O melhor desempenho foi obtido com o **Random Forest**, que explicou cerca de **59% da variância** dos dados.
 
@@ -46,3 +46,7 @@ olist-delivery-time-prediction/
 ├── venv/                     # Ambiente virtual (não versionado)
 ├── README.md                 # Este arquivo
 └── requirements.txt          # Bibliotecas usadas no projeto
+
+📬 Contato
+Desenvolvido por André
+📧 andre.gomes.pro01@gmail.com
