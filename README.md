@@ -15,7 +15,6 @@ O objetivo é criar um modelo de regressão capaz de prever, com boa precisão, 
 - Python 3.11
 - Pandas e NumPy (manipulação de dados)
 - Scikit-learn (modelos de ML)
-- Matplotlib e Seaborn (visualizações)
 - Jupyter Notebook
 - Git e GitHub
 
